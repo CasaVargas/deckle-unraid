@@ -1,0 +1,18 @@
+<CommunityApplications>
+  <Profile>
+**Deckle** builds a morning newspaper for your e-reader from your town's news and weather, your
+RSS feeds and the articles you saved: a front page, sections, a puzzle, and a last page you can
+finish.
+
+The container here is the headless Deckle. It builds the paper on your schedule, keeps every
+edition in a Morgue folder, and sends it to a Kindle by email, to KOReader over Wi-Fi, or to any
+folder. The Deckle app runs in your browser on port 8080.
+
+Deckle is free and open source (GPL-3.0). Kindle book conversion needs Kindle Previewer, so it
+stays in the Mac and Windows app.
+
+Support: https://github.com/CasaVargas/deckle/issues
+  </Profile>
+  <Icon>https://raw.githubusercontent.com/CasaVargas/deckle-unraid/main/icon.png</Icon>
+  <WebPage>https://github.com/CasaVargas/deckle</WebPage>
+</CommunityApplications>
